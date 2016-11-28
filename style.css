@@ -1,0 +1,19 @@
+h1, h2, h3 {
+   font-family: 'Cuprum'
+}
+p, ul {
+   font-family: "Roboto"
+}
+.introduction {
+   font-size: 1.2em;
+}
+body {
+   margin: 20px 40px 20px 40px;
+   background: #EEEEEE;
+}
+
+img {
+   width: 100%;
+   margin-right: auto;
+   margin-left: auto;
+}
